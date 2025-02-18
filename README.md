@@ -1,2 +1,1 @@
-# belajar kolaborasi
-Belajar fork dengan dicoding
+# belajar-kolaborasi
