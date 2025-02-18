@@ -1,3 +1,4 @@
 # belajar-kolaborasi
-Belajar Dasar Pemrograman menggunakan html, css, dan javascript
-Belajar Logika pemrograman 
+Belajar Dasar Pemrograman menggunakan html, css, dan javascript<br>
+Belajar Logika pemrograman<br>
+Belajar git dan github
